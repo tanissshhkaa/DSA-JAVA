@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
