@@ -117,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
