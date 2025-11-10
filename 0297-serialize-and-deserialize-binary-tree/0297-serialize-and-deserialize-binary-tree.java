@@ -7,30 +7,48 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+
+
+
 public class Codec {
     public String serialize(TreeNode root) {
-        
-        if(root==null) return "X";
-        return root.val+","+serialize(root.left)+","+serialize(root.right);
+        if (root == null) return "X";
+        return root.val + "," + serialize(root.left) + "," + serialize(root.right);
     }
     public TreeNode deserialize(String data) {
-        String arr[]=data.split(",");
-        Queue<String> q=new LinkedList<>();
-        for(int i=0;i<arr.length;i++){
-            q.add(arr[i]);
-        }
-        TreeNode root=deserialize(q);
-        return root;  
+        String arr[] = data.split(",");
+        Queue<String> q = new LinkedList<>();
+        for (String s : arr) q.offer(s);
+        return buildTree(q);
     }
-
-    public static TreeNode deserialize(Queue<String> q){
-        if(q.size()==0) return null;
-        String peek=q.poll();
-        if(peek.equals("X")) return null;
-        TreeNode root=new TreeNode(Integer.parseInt(peek));
-        root.left=deserialize(q);
-        root.right=deserialize(q);
-        return root;
+    private TreeNode buildTree(Queue<String> q) {
+        String val = q.poll();
+        if (val.equals("X")) return null;
+        TreeNode node = new TreeNode(Integer.parseInt(val));
+        node.left = buildTree(q);
+        node.right = buildTree(q);
+        return node;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
