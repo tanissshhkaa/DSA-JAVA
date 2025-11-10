@@ -11,9 +11,7 @@ public class Codec {
     public String serialize(TreeNode root) {
         
         if(root==null) return "X";
-        String leftSerialize=serialize(root.left);
-        String rightSerialize=serialize(root.right);
-        return root.val+","+leftSerialize+","+rightSerialize;
+        return root.val+","+serialize(root.left)+","+serialize(root.right);
     }
     public TreeNode deserialize(String data) {
         String arr[]=data.split(",");
