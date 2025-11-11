@@ -12,15 +12,14 @@ public class Codec {
     public String serialize(TreeNode root) {
         if(root==null) return "X";
         return root.val + "," + serialize(root.left) + "," + serialize(root.right);
-
     }
     public TreeNode deserialize(String data) {
-        String arr[] = data.split(",");
-        Queue<String> q=new LinkedList<>();
-        for(String s : arr){
-            q.add(s);
-        }
-        return buildTree(q);    
+    String arr[]=data.split(",");
+    Queue<String> q=new LinkedList<>();
+    for(String s : arr){
+        q.add(s);
+    }
+    return buildTree(q);
 }
 
 public TreeNode buildTree(Queue<String> q){
