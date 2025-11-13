@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Design
 |  |
 | ------- |
@@ -181,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Greedy
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
