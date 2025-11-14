@@ -22,9 +22,10 @@ class Solution {
   private int maxGain(TreeNode root) {
     if (root == null)
       return 0;
-    final int l = Math.max(maxGain(root.left), 0);
-    final int r = Math.max(maxGain(root.right), 0);
+    int l = Math.max(maxGain(root.left), 0);
+    int r = Math.max(maxGain(root.right), 0);
     ls = Math.max(ls, root.val + l + r);
     return root.val + Math.max(l, r);
     }
 }
+
