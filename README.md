@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Hash Table
@@ -160,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Simulation
