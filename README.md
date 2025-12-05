@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
