@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
