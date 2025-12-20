@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
