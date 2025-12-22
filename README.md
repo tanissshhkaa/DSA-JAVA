@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
