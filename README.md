@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
