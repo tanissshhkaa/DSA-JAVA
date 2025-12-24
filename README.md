@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
