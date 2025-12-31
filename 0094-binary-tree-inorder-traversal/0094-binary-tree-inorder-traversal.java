@@ -2,28 +2,19 @@
 
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ls = new ArrayList<>();
-        TreeNode node = root;
-        while (node != null) {
-            if (node.left == null) {
-                ls.add(node.val);
-                node = node.right;
-            } else {
-                TreeNode prev = node.left;
-                while (prev.right != null && prev.right != node)
-                    prev = prev.right;
-                
-                if (prev.right == null) {
-                    prev.right = node;
-                    node = node.left;
-                } else {
-                    prev.right = null;
-                    ls.add(node.val);
-                    node = node.right;
-                }
-            }
+     List<Integer> list=new ArrayList<>();
+     Stack<TreeNode> st=new Stack<>();
+     TreeNode ls=root;
+     while(ls!=null || !st.isEmpty()){
+        if(ls!=null){
+            st.push(ls);
+            ls=ls.left;
+        }else{
+            ls=st.pop();
+            list.add(ls.val);
+            ls=ls.right;
         }
-        return ls;
+     }
+     return list;
     }
 }
-
