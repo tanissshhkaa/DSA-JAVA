@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
