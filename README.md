@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
