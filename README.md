@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [2211-count-collisions-on-a-road](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
