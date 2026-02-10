@@ -1,12 +1,12 @@
 class Solution {
     public String minWindow(String s, String t) {
         if (s.length() < t.length()) return "";
-        int[] freq = new int[128];  // ASCII
+        int[] freq = new int[128];  
         for (char c : t.toCharArray()) {
             freq[c]++;
         }
         int left = 0, right = 0;
-        int count = t.length();   // number of chars to be matched
+        int count = t.length();   
         int minLen = Integer.MAX_VALUE;
         int start = 0;
         while (right < s.length()) {
