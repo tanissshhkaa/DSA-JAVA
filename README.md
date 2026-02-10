@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2574-left-and-right-sum-differences](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
