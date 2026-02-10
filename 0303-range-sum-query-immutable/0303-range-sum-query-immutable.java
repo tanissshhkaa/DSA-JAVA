@@ -7,7 +7,6 @@ class NumArray {
             prefixSum[i + 1] = prefixSum[i] + nums[i];
         }
     }
-   
     public int sumRange(int left, int right) {
          return prefixSum[right + 1] - prefixSum[left];
     }
