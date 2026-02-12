@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [3531-count-covered-buildings](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3583-count-special-triplets) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
