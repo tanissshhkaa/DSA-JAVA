@@ -5,9 +5,13 @@ class Solution {
             int firstFlight=booking[0];
             int lastFlight=booking[1];
             int noOfSeats=booking[2];
-            for(int i=firstFlight-1; i<=lastFlight-1;i++){
-                ls[i]=ls[i]+noOfSeats;
+            ls[firstFlight-1]=ls[firstFlight-1]+noOfSeats;
+            if(lastFlight<n){
+            ls[lastFlight]=ls[lastFlight]-noOfSeats;
             }
+        }
+         for (int i = 1; i < n; i++) {
+            ls[i] += ls[i - 1];
         }
         return ls;
     }
