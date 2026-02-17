@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3531-count-covered-buildings](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Design
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
