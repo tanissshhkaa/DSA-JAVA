@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0704-binary-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
