@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
+| [0784-letter-case-permutation](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
+| [0784-letter-case-permutation](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0784-letter-case-permutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
