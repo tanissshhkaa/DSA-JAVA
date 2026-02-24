@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
