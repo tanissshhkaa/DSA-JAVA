@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
