@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isValidSudoku(char[][] board) {
+     public boolean isValidSudoku(char[][] board) {
         boolean[][] rows=new boolean[9][9];
         boolean[][] cols=new boolean[9][9];
         boolean[][] boxes=new boolean[9][9];
@@ -18,4 +18,3 @@ class Solution {
         return true;
     }
 }
-
