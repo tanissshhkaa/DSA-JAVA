@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -473,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1095-find-in-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
