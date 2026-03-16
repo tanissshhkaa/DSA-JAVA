@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
