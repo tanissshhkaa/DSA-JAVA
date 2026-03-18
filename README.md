@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0100-same-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0994-rotting-oranges) |
