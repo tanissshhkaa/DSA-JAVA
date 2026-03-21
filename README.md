@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search Tree
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0704-binary-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
