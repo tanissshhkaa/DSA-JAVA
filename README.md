@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0724-find-pivot-index) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
