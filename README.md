@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2625-increment-submatrices-by-one) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3531-count-covered-buildings](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
