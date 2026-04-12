@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0912-sort-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3433-count-mentions-per-user](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
