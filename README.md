@@ -539,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
