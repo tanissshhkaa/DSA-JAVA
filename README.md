@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
