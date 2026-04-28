@@ -8,17 +8,13 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
- //Iterative A
 class Solution {
     public ListNode reverseList(ListNode head) {
-   if(head==null || head.next==null){
-    return head;
-   }
-   ListNode newHead=reverseList(head.next);
-   head.next.next=head;
-   head.next=null;
-   return newHead;
+      ArrayList<Integer> arr = new ArrayList<>();
+        for (ListNode curr = head; curr != null; curr = curr.next)
+            arr.add(curr.val);
+        for (ListNode curr = head; curr != null; curr = curr.next)
+            curr.val = arr.remove(arr.size() - 1);
+        return head;
     }
 }
-
