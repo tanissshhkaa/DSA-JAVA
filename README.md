@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3693-climbing-stairs-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3693-climbing-stairs-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
