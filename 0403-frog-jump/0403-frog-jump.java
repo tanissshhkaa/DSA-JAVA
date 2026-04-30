@@ -1,26 +1,36 @@
+import java.util.*;
 class Solution {
+    int n;
+    HashMap<Integer, Integer> map = new HashMap<>();
+    int[][] dp;
     public boolean canCross(int[] stones) {
-        HashMap<Integer, HashSet<Integer>> map = new HashMap<>();
-        for (int stone : stones) {
-            map.put(stone, new HashSet<>());
+        n = stones.length;
+        for (int i = 0; i < n; i++) {
+            map.put(stones[i], i);
         }
-        map.get(0).add(1); 
-        for (int stone : stones) {
-            for (int jump : map.get(stone)) {
-                int reach = stone + jump;
-                if (reach == stones[stones.length - 1]) {
-                    return true;
-                }
-                if (map.containsKey(reach)) {
-                    if (jump - 1 > 0) {
-                        map.get(reach).add(jump - 1);
-                    }
-                    map.get(reach).add(jump);
-                    map.get(reach).add(jump + 1);
+        dp = new int[n][n + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+        return solve(stones, 0, 0);
+    }
+    public boolean solve(int[] stones, int currIndex, int prevJump) {
+        if (currIndex == n - 1) {
+            return true;
+        }
+        if (dp[currIndex][prevJump] != -1) {
+            return dp[currIndex][prevJump] == 1;
+        }
+        boolean result = false;
+        for (int nextJump = prevJump - 1; nextJump <= prevJump + 1; nextJump++) {
+            if (nextJump > 0) {
+                int nextStone = stones[currIndex] + nextJump;
+                if (map.containsKey(nextStone)) {
+                    result = result || solve(stones, map.get(nextStone), nextJump);
                 }
             }
         }
-
-        return false;
+        dp[currIndex][prevJump] = result ? 1 : 0;
+        return result;
     }
 }
