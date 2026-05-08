@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0213-house-robber-ii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
@@ -582,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
