@@ -21,6 +21,6 @@ class Solution {
             slow = slow.next;
         }
         slow.next = slow.next.next;
-        return dummy.next;
+        return dummy.next; 
     }
 }
