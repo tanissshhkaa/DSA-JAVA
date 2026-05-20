@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0443-string-compression) |
