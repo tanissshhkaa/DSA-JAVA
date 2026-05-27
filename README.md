@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
+| [1143-longest-common-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3693-climbing-stairs-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search Tree
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0474-ones-and-zeroes) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0784-letter-case-permutation) |
+| [1143-longest-common-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
