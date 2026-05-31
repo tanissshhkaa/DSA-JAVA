@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0079-word-search) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0767-reorganize-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
