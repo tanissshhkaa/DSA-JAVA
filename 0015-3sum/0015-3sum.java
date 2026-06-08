@@ -3,7 +3,6 @@ class Solution{
         if(arr == null || arr.length < 3) return new ArrayList<>();
         Arrays.sort(arr);
         Set<List<Integer>> result = new HashSet<>();
-         // Now fix the first element and find the other two elements
          for(int i=0;i<arr.length-2;i++){
             int left=i+1;
             int right=arr.length-1;
@@ -22,6 +21,5 @@ class Solution{
          return new ArrayList<>(result);
     }
 }
-
 
 
