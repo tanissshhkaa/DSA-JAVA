@@ -611,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
