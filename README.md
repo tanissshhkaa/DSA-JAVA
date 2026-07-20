@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
