@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0101-symmetric-tree) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0101-symmetric-tree) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0139-word-break) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
