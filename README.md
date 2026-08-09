@@ -636,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanissshhkaa/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
